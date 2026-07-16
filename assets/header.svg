@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Tehseen Raza — Cybersecurity, automation and data</title>
+  <desc id="desc">A dark cyber-inspired banner with cyan and violet accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.52" stop-color="#0d1728"/>
+      <stop offset="1" stop-color="#11102a"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#94a3b8" stroke-opacity=".08"/>
+    </pattern>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="1060" cy="58" r="190" fill="url(#glow)" filter="url(#soft)"/>
+  <circle cx="1115" cy="72" r="96" fill="none" stroke="#22d3ee" stroke-opacity=".22"/>
+  <circle cx="1115" cy="72" r="58" fill="none" stroke="#a78bfa" stroke-opacity=".28"/>
+  <path d="M920 278c68-92 145-80 232-172" fill="none" stroke="url(#line)" stroke-opacity=".38" stroke-width="2"/>
+  <circle cx="920" cy="278" r="5" fill="#22d3ee"/>
+  <circle cx="1152" cy="106" r="5" fill="#a78bfa"/>
+
+  <g transform="translate(74 68)">
+    <rect x="0" y="0" width="142" height="34" rx="17" fill="#22d3ee" fill-opacity=".12" stroke="#22d3ee" stroke-opacity=".38"/>
+    <circle cx="20" cy="17" r="5" fill="#22d3ee"/>
+    <text x="35" y="23" fill="#a5f3fc" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="2">TEHSEENTECH</text>
+
+    <text x="0" y="120" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="1">TEHSEEN RAZA</text>
+    <rect x="2" y="144" width="450" height="4" rx="2" fill="url(#line)"/>
+    <text x="0" y="197" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="400" letter-spacing="4">CYBERSECURITY · AUTOMATION · DATA</text>
+    <text x="0" y="244" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="18">Building practical tools for complex technical problems.</text>
+  </g>
+
+  <g transform="translate(1000 224)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 4 88 20v30c0 27-16 49-40 60C24 99 8 77 8 50V20L48 4Z" stroke="#22d3ee" stroke-width="4"/>
+    <path d="m29 56 13 13 27-31" stroke="#a78bfa" stroke-width="6"/>
+  </g>
+</svg>
