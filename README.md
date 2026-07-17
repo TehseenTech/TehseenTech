@@ -3,6 +3,8 @@
 </p>
 
 <p align="center">
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="tehseenrazahacker" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/tehseenrazahacker?trk=profile-badge">Tehseen Raza</a></div>
+              
   <a href="https://github.com/TehseenTech?tab=repositories">
     <img src="https://img.shields.io/badge/Explore-Projects-22d3ee?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117" alt="Explore projects" />
   </a>
