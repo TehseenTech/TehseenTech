@@ -1,31 +1,40 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Tehseen Raza — Cybersecurity, automation and data" width="100%" />
+  <img src="./assets/header.svg" alt="Tehseen Raza — cybersecurity, automation, data, and AI agent workflows" width="100%" />
 </p>
 
 <p align="center">
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="tehseenrazahacker" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/tehseenrazahacker?trk=profile-badge">Tehseen Raza</a></div>
-              
   <a href="https://github.com/TehseenTech?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-Projects-22d3ee?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117" alt="Explore projects" />
+    <img src="https://img.shields.io/badge/Explore-Projects-22d3ee?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117" alt="Explore TehseenTech projects" />
   </a>
   <a href="https://github.com/TehseenTech?tab=followers">
     <img src="https://img.shields.io/github/followers/TehseenTech?style=for-the-badge&logo=github&label=Follow&labelColor=0d1117&color=a78bfa" alt="Follow TehseenTech on GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/tehseenrazahacker/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="Connect with Tehseen Raza on LinkedIn" />
   </a>
 </p>
 
 ## About me
 
-I'm **Tehseen Raza**, a builder exploring the intersection of **cybersecurity, automation, and data**. I enjoy turning complex technical problems into practical tools—from telecom dashboards and API-powered utilities to deployment workflows and self-hosted systems.
+I’m **Tehseen Raza**, a builder exploring the intersection of **cybersecurity, automation, data, and AI-assisted developer workflows**. I turn complex technical problems into practical tools—from telecom dashboards and API-powered utilities to deployment workflows, self-hosted systems, and reusable AI agent skills.
 
 > **My approach:** build responsibly, keep the experience simple, and make the result genuinely useful.
 
 ### Current focus
 
-- 🛡️ Responsible and authorized security research
-- 🔎 OSINT and privacy-aware data tooling
-- 📊 Dashboards for complex datasets
-- ⚙️ Automation, deployment, and self-hosting
-- 🤖 AI-assisted developer workflows
+- Responsible and authorized security research
+- OSINT and privacy-aware data tooling
+- Dashboards for complex datasets
+- Automation, deployment, and self-hosting
+- AI agent workflows and reusable Manus skills
+
+## Featured project
+
+### [Tehseen Tech Manus Skills](https://github.com/TehseenTech/manus-skills)
+
+A public collection of **78 reusable Manus AI agent skills** for research, software development, workflow automation, data, content, design, integrations, and repeatable operations. Each skill includes request-oriented metadata, documented workflows, resources, and automatic-discovery guidance.
+
+[Explore the repository](https://github.com/TehseenTech/manus-skills) · [Read the quickstart](https://github.com/TehseenTech/manus-skills/blob/main/docs/quickstart.md) · [Browse the skill finder](https://github.com/TehseenTech/manus-skills/blob/main/docs/skill-finder.md)
 
 ## Toolbox
 
@@ -47,25 +56,25 @@ I'm **Tehseen Raza**, a builder exploring the intersection of **cybersecurity, a
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/TehseenTech/Cdr-dashboard-by-Tehseen-raza">📊 CDR Dashboard</a></h3>
+      <h3><a href="https://github.com/TehseenTech/Cdr-dashboard-by-Tehseen-raza">CDR Dashboard</a></h3>
       <p>A dashboard-focused workspace for exploring and presenting telecom call-detail data.</p>
       <p><code>Python</code> <code>Streamlit</code> <code>Data</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/TehseenTech/iPhone-proxy-system">🌐 iPhone Proxy System</a></h3>
+      <h3><a href="https://github.com/TehseenTech/iPhone-proxy-system">iPhone Proxy System</a></h3>
       <p>Country-aware proxy configuration with scheduled updates and GitHub Pages deployment.</p>
       <p><code>Node.js</code> <code>Automation</code> <code>GitHub Actions</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/TehseenTech/GitHub-Wrapped">🎁 GitHub Wrapped</a></h3>
+      <h3><a href="https://github.com/TehseenTech/GitHub-Wrapped">GitHub Wrapped</a></h3>
       <p>Python experiments that turn GitHub API activity into a readable developer snapshot.</p>
       <p><code>Python</code> <code>GitHub API</code> <code>CLI</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/TehseenTech/Tehseenraza.github.io">🧭 Personal Portfolio</a></h3>
-      <p>A focused portfolio for cybersecurity, data work, and professional project highlights.</p>
+      <h3><a href="https://github.com/TehseenTech/Tehseenraza.github.io">Personal Portfolio Repository</a></h3>
+      <p>The source repository for a portfolio focused on cybersecurity, data work, and professional project highlights.</p>
       <p><code>HTML</code> <code>CSS</code> <code>SEO</code></p>
     </td>
   </tr>
@@ -83,14 +92,17 @@ Automate the repetitive parts
 Document it so others can use it
 ```
 
-## Let's connect
+## Let’s connect
 
 <p>
   <a href="https://github.com/TehseenTech">
     <img src="https://img.shields.io/badge/GitHub-TehseenTech-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="TehseenTech on GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/tehseenrazahacker/">
+    <img src="https://img.shields.io/badge/LinkedIn-Tehseen_Raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="Tehseen Raza on LinkedIn" />
+  </a>
   <a href="https://github.com/TehseenTech?tab=repositories">
-    <img src="https://img.shields.io/badge/Browse-All_Repositories-a78bfa?style=for-the-badge&logo=git&logoColor=ffffff" alt="Browse all repositories" />
+    <img src="https://img.shields.io/badge/Browse-All_Repositories-a78bfa?style=for-the-badge&logo=git&logoColor=ffffff" alt="Browse all TehseenTech repositories" />
   </a>
 </p>
 
@@ -99,11 +111,3 @@ Document it so others can use it
 <p align="center">
   <sub>Building useful technology, one practical experiment at a time.</sub>
 </p>
-<div align="center">
-  <a href="https://commit-history.com/Tinywan">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/Tinywan?theme=dark" />
-      <img alt="Tinywan's commit history" src="https://commit-history.com/embed/Tinywan" />
-    </picture>
-  </a>
-</div>
