@@ -1,113 +1,137 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Tehseen Raza — cybersecurity, automation, data, and AI agent workflows" width="100%" />
+  <img src="./assets/header.svg" alt="Tehseen Raza — cybersecurity, automation, data tooling, and AI agent workflows" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/TehseenTech?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-Projects-22d3ee?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117" alt="Explore TehseenTech projects" />
-  </a>
-  <a href="https://github.com/TehseenTech?tab=followers">
-    <img src="https://img.shields.io/github/followers/TehseenTech?style=for-the-badge&logo=github&label=Follow&labelColor=0d1117&color=a78bfa" alt="Follow TehseenTech on GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/tehseenrazahacker/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="Connect with Tehseen Raza on LinkedIn" />
-  </a>
+  <a href="https://github.com/TehseenTech?tab=repositories">Explore projects</a>
+  ·
+  <a href="https://github.com/TehseenTech/manus-skills">Manus skills</a>
+  ·
+  <a href="https://www.linkedin.com/in/tehseenrazahacker/">LinkedIn</a>
 </p>
 
-## About me
+# Tehseen Raza
 
-I’m **Tehseen Raza**, a builder exploring the intersection of **cybersecurity, automation, data, and AI-assisted developer workflows**. I turn complex technical problems into practical tools—from telecom dashboards and API-powered utilities to deployment workflows, self-hosted systems, and reusable AI agent skills.
+I build practical security and software systems focused on **Cybersecurity**, **Digital Forensics**, and **Network Security**.
 
-> **My approach:** build responsibly, keep the experience simple, and make the result genuinely useful.
+My work turns complex technical tasks into clear, reusable tools—from digital-evidence and OSINT workflows to network-aware utilities, data dashboards, deployment systems, and responsible digital-safety resources.
 
-### Current focus
+> **Build responsibly. Keep the interface simple. Make the result useful.**
+
+## Core security focus
+
+<p>
+  <strong>01 / CYBERSECURITY</strong><br />
+  Building responsible security workflows, practical information-security resources, and tools that make complex technical problems easier to understand.
+</p>
+
+<p>
+  <strong>02 / DIGITAL FORENSICS</strong><br />
+  Preserving, organizing, and analyzing digital evidence with attention to metadata, timelines, documentation, and chain of custody.
+</p>
+
+<p>
+  <strong>03 / NETWORK SECURITY</strong><br />
+  Exploring network visibility, defensive controls, secure configurations, and practical approaches to reducing operational risk.
+</p>
+
+## Supporting skills
+
+These are the security areas I study, document, and apply only in authorized, defensive, or educational contexts. Specific tools and methods vary by project; this profile does not claim certifications or production experience for every item.
+
+`Ethical Hacking` · `Incident Response` · `Vulnerability Assessment` · `Digital Evidence Recovery` · `OSINT` · `Penetration Testing` · `Cyber Threat Analysis` · `Computer Forensics` · `Mobile Device Forensics` · `Android Security` · `Information Security` · `SIEM` · `Firewalls and IDS/IPS` · `Risk Assessment`
+
+## Responsible security scope
+
+All security testing and research is performed with permission and within a defined scope. My public work focuses on defensive learning, documentation, evidence preservation, privacy-aware research, and safer digital systems—not unauthorized access, credential theft, malware, or disruption.
+
+## Current focus
 
 - Responsible and authorized security research
+- Digital evidence recovery and preservation
 - OSINT and privacy-aware data tooling
-- Dashboards for complex datasets
-- Automation, deployment, and self-hosting
-- AI agent workflows and reusable Manus skills
+- Network-security concepts and defensive workflows
+- Incident response and threat-analysis documentation
+- Clear documentation for technical and public-interest projects
 
-## Featured project
+## Featured system: Manus skills
 
 ### [Tehseen Tech Manus Skills](https://github.com/TehseenTech/manus-skills)
 
-A public collection of **78 reusable Manus AI agent skills** for research, software development, workflow automation, data, content, design, integrations, and repeatable operations. Each skill includes request-oriented metadata, documented workflows, resources, and automatic-discovery guidance.
+A public collection of reusable Manus AI agent skills for research, software development, workflow automation, data, content, design, integrations, and repeatable operations.
 
-[Explore the repository](https://github.com/TehseenTech/manus-skills) · [Read the quickstart](https://github.com/TehseenTech/manus-skills/blob/main/docs/quickstart.md) · [Browse the skill finder](https://github.com/TehseenTech/manus-skills/blob/main/docs/skill-finder.md)
+Each skill is organized around a real request and includes metadata, workflow guidance, resources, and discovery instructions.
 
-## Toolbox
+**Explore:** [repository](https://github.com/TehseenTech/manus-skills) · [quickstart](https://github.com/TehseenTech/manus-skills/blob/main/docs/quickstart.md) · [skill finder](https://github.com/TehseenTech/manus-skills/blob/main/docs/skill-finder.md)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=38bdf8" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=facc15" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=60a5fa" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=22d3ee" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=4ade80" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=fb7185" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=60a5fa" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=a78bfa" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=f8fafc" alt="Linux" />
-</p>
+## Selected work
 
-## Featured work
+### [CDR Dashboard](https://github.com/TehseenTech/Cdr-dashboard-by-Tehseen-raza)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/TehseenTech/Cdr-dashboard-by-Tehseen-raza">CDR Dashboard</a></h3>
-      <p>A dashboard-focused workspace for exploring and presenting telecom call-detail data.</p>
-      <p><code>Python</code> <code>Streamlit</code> <code>Data</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/TehseenTech/iPhone-proxy-system">iPhone Proxy System</a></h3>
-      <p>Country-aware proxy configuration with scheduled updates and GitHub Pages deployment.</p>
-      <p><code>Node.js</code> <code>Automation</code> <code>GitHub Actions</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/TehseenTech/GitHub-Wrapped">GitHub Wrapped</a></h3>
-      <p>Python experiments that turn GitHub API activity into a readable developer snapshot.</p>
-      <p><code>Python</code> <code>GitHub API</code> <code>CLI</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/TehseenTech/Tehseenraza.github.io">Personal Portfolio Repository</a></h3>
-      <p>The source repository for a portfolio focused on cybersecurity, data work, and professional project highlights.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>SEO</code></p>
-    </td>
-  </tr>
-</table>
+A Python and Streamlit dashboard workspace for exploring and presenting telecom call-detail data.
 
-## How I like to build
+`Python` `Streamlit` `Data visualization`
+
+### [iPhone Proxy System](https://github.com/TehseenTech/iPhone-proxy-system)
+
+A country-aware proxy configuration workflow with scheduled updates and GitHub Pages deployment.
+
+`Node.js` `Automation` `GitHub Actions`
+
+### [GitHub Wrapped](https://github.com/TehseenTech/GitHub-Wrapped)
+
+Python experiments that transform GitHub API activity into a readable developer snapshot.
+
+`Python` `GitHub API` `CLI`
+
+### [Personal portfolio](https://github.com/TehseenTech/Tehseenraza.github.io)
+
+The source repository for a portfolio focused on cybersecurity, data work, technical projects, and professional presentation.
+
+`HTML` `CSS` `SEO`
+
+## Digital safety resources
+
+I also maintain practical, safety-first resources for people dealing with online harm and digital evidence:
+
+- [Digital evidence preservation](https://github.com/TehseenTech/digital-evidence-preservation) — preserving messages, screenshots, metadata, timelines, and chain of custody.
+- [Online fraud and scam response](https://github.com/TehseenTech/online-fraud-scam-response) — guidance for phishing, financial fraud, evidence preservation, and reporting in Pakistan.
+- [Online harassment and blackmail response](https://github.com/TehseenTech/online-harassment-blackmail-response) — practical guidance for harassment, impersonation, threats, reporting, and evidence preservation.
+
+## Technical range
+
+| Area | Tools and practices |
+| --- | --- |
+| Security and forensics | Cybersecurity, digital forensics, network security, incident response, OSINT |
+| Assessment and defense | Authorized vulnerability assessment, defensive penetration testing, threat analysis, risk assessment |
+| Evidence and devices | Digital evidence recovery, computer forensics, mobile device forensics, Android security |
+| Product and web | JavaScript, TypeScript, React, Next.js, Node.js |
+| Data and automation | Python, Streamlit, GitHub API, workflow automation |
+| Platform | Linux, Docker, GitHub Actions, deployment workflows |
+| AI workflows | Manus skills, reusable agent workflows, documentation and evaluation |
+
+## How I build
 
 ```text
 Understand the real problem
-        ↓
+          ↓
 Design the simplest useful solution
-        ↓
+          ↓
 Automate the repetitive parts
-        ↓
-Document it so others can use it
+          ↓
+Document the system clearly
+          ↓
+Improve it through real use
 ```
 
-## Let’s connect
+## Find me
 
-<p>
-  <a href="https://github.com/TehseenTech">
-    <img src="https://img.shields.io/badge/GitHub-TehseenTech-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="TehseenTech on GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/tehseenrazahacker/">
-    <img src="https://img.shields.io/badge/LinkedIn-Tehseen_Raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="Tehseen Raza on LinkedIn" />
-  </a>
-  <a href="https://github.com/TehseenTech?tab=repositories">
-    <img src="https://img.shields.io/badge/Browse-All_Repositories-a78bfa?style=for-the-badge&logo=git&logoColor=ffffff" alt="Browse all TehseenTech repositories" />
-  </a>
-</p>
+- GitHub: [@TehseenTech](https://github.com/TehseenTech)
+- LinkedIn: [Tehseen Raza](https://www.linkedin.com/in/tehseenrazahacker/)
+- Projects: [browse all repositories](https://github.com/TehseenTech?tab=repositories)
 
 ---
 
 <p align="center">
-  <sub>Building useful technology, one practical experiment at a time.</sub>
+  <sub>Practical systems. Responsible technology. One useful experiment at a time.</sub>
 </p>
