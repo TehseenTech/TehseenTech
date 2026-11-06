@@ -72,11 +72,11 @@ A Python and Streamlit dashboard workspace for exploring and presenting telecom 
 
 `Python` `Streamlit` `Data visualization`
 
-### [iPhone Proxy System](https://github.com/TehseenTech/iPhone-proxy-system)
+### [Hacked Account Recovery](https://github.com/TehseenTech/hacked-account-recovery)
 
-A country-aware proxy configuration workflow with scheduled updates and GitHub Pages deployment.
+A safety-first guide for containing and recovering compromised WhatsApp, Instagram, Google, and social-media accounts.
 
-`Node.js` `Automation` `GitHub Actions`
+`Incident response` `Account security` `Digital evidence`
 
 ### [GitHub Wrapped](https://github.com/TehseenTech/GitHub-Wrapped)
 
