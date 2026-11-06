@@ -127,7 +127,11 @@ Improve it through real use
 ## Find me
 
 - GitHub: [@TehseenTech](https://github.com/TehseenTech)
+- Portfolio source: [Tehseenraza.github.io](https://github.com/TehseenTech/Tehseenraza.github.io)
 - LinkedIn: [Tehseen Raza](https://www.linkedin.com/in/tehseenrazahacker/)
+- Featured system: [Manus skills](https://github.com/TehseenTech/manus-skills)
+- Digital forensics: [digital evidence preservation](https://github.com/TehseenTech/digital-evidence-preservation)
+- Incident response: [hacked account recovery](https://github.com/TehseenTech/hacked-account-recovery)
 - Projects: [browse all repositories](https://github.com/TehseenTech?tab=repositories)
 
 ---
